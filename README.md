@@ -1,7 +1,8 @@
 # Weather Finder
 
 Create simple Weather Finder application
-https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw/videos
+
+## Required
 
 - JS
 - React
@@ -9,4 +10,6 @@ https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw/videos
 - CSS
   - Bootstrap
 
-![](Output.png)
+## Preview
+
+![](preview.gif)
