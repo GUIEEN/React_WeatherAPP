@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 
 import Titles from './components/Titles'
@@ -6,6 +7,7 @@ import Weather from './components/Weather'
 
 import configuration from './configuration'
 const API_KEYS = configuration.WEATHER_API
+/* eslint-enable */
 
 class App extends React.Component {
   /*
